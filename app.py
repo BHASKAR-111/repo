@@ -1,2 +1,2 @@
-print("mahadev ki jai")
+print("mahadev bole")
 print("Hare krishna")
