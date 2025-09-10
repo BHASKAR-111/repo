@@ -1,2 +1,2 @@
-print("mahadev bole")
+import flask
 print("Hare krishna")
